@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color:rgb(18, 19, 19);
+   
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #030303;
+    
+}
+.login-form {
+    background-color: #80ce41;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-stretch: expanded;
+}
+.login-form h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #010101;
+}
+.form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.form-group label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.form-group input {
+    padding: 10px;
+    border: 1px solid #141212;
+    border-radius: 5px;
+}
+button {
+    
+    background-color: #020202;
+    color: #efeaea;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+}
+button:hover {
+    background-color: #7a7272;
+}
+h1{
+    color: #605555;
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-stretch: expanded;
+    text-align:justify;
+}
+h2{
+    font-size:50px;
+    color: #2ef10c;
+    font-family:'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-stretch: expanded;
+    text-align:justify;
+}
+

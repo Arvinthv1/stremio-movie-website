@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #f7f3f3;
+    color: #fcf8f8;
+    padding: 10px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-links a {
+    color: #030303;
+    margin-right: 15px;
+    text-decoration: none;
+    font-style:italic;
+}
+main {
+    color: #fcf8f8;
+    background-color:rgb(116, 201, 77);
+}
+footer {
+    background-color: #fefdfd;
+    color: #030303;
+    text-align: center;
+    padding: 10px;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.logo{
+    color: #060606;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:italic;
+    text-decoration: solid;
+    
+}
+.movie-grid{ 
+    display:grid; 
+    grid-template-columns:300px 300px 300px 300px;
+    grid-template-rows:300px 300px 300px  ;
+    grid-column-gap: 10px; 
+    grid-row-gap: 50px; 
+    padding: 10px;
+    font-style: italic;
+    color: #000;
+}
+a{
+    color: #000;
+}
+button{
+    border-radius: 5px;
+}
+.movie-card1{
+    background-color:#ccc;
+    width: 200px;
+    height:400px;
+    margin:10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    transition: transform 0.3s ease;
+    border-spacing: 20px;
+}
+.movie-card2{
+    background-color: #ccc;
+    width: 200px;
+    height:400px;
+    margin:10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+.movie-card3{
+    background-color: #ccc;
+    width: 200px;
+    height:400px;
+    margin:10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+.movie-card4{
+    background-color: #ccc;
+    width: 200px;
+    height:400px;
+    margin:10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+.movie-card5{
+    background-color: #ccc;
+    width: 200px;
+    height:400px;
+    margin:10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+.movie-card6{
+    background-color: #ccc;
+    width: 200px;
+    height:400px;
+    margin:10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+.movie-card7{
+    background-color: #ccc;
+    width: 200px;
+    height:400px;
+    margin:10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+.movie-card8{
+    background-color: #ccc;
+    width: 200px;
+    height:400px;
+    margin:10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
